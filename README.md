@@ -1,6 +1,6 @@
-# EjemploAkita
+# Example with Akita
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+State managament with Angular and Akita.
 
 ## Development server
 
